@@ -1,4 +1,4 @@
-# quoter
+# Rewire
 Adaptation of the quoter model to evolving networks
 
 An easily usable version of the Rewire model. Dependent on LCSFinder package which requires C++ build tools.
@@ -12,6 +12,10 @@ The core Idea of the rewire model is as follows:
 
 More information on the quoter model and cross-entropy estimate can be found in [Bagrow & Mitchell's 2018 Paper](https://pubs.aip.org/aip/cha/article/28/7/075304/386316/The-quoter-model-A-paradigmatic-model-of-the).
    
+
+# Installation and Usage
+Required packages can be installed as such:
+`pip install networkx numpy matplotlib pandas LCSFinder`
 
 # Rewire.Py
 Contains functions for performing rewire network analysis.
