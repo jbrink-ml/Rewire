@@ -10,7 +10,7 @@ The core Idea of the rewire model is as follows:
    -Identify the non-neighbour with the lowest cross-entropy, w.
    -Switch u-v edge to u-w edge.
 
-More information on the quoter model and cross-entropy estimate can be found in [Bagrow and Lewis's 2018 Paper](https://pubs.aip.org/aip/cha/article/28/7/075304/386316/The-quoter-model-A-paradigmatic-model-of-the).
+More information on the quoter model and cross-entropy estimate can be found in [Bagrow & Mitchell's 2018 Paper](https://pubs.aip.org/aip/cha/article/28/7/075304/386316/The-quoter-model-A-paradigmatic-model-of-the).
    
 
 # Rewire.Py
